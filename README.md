@@ -3,7 +3,7 @@
 This is a responsive UI clone of the **Story Protocol Ecosystem** page, built using **HTML5**, **CSS3**, and the **Bootstrap 5 framework**. The goal was to replicate the polished visual layout, ecosystem sections, and grid responsiveness of the original page with modern UI practices.
 
 > 🔗 **Live Demo:**  
-> [https://karanray444.github.io/bootstrapx/](https://karanray444.github.io/bootstrapx/)
+> [https://karanray444.github.io/bootstrapx/]( https://karanray444.github.io/story-protocol-bootstrap-clone/)
 
 
 ## 🚀 Features

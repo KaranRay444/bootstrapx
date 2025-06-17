@@ -32,5 +32,5 @@ This is a responsive UI clone of the **Story Protocol Ecosystem** page, built us
 | Mobile 📲  | ✅ Full      |
 
 📄 License
-This project is built strictly for learning and portfolio use.
+This project is built strictly for learning use.
 All trademarks and designs belong to Story Protocol.
